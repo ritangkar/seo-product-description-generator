@@ -1,0 +1,11 @@
+server:
+  port: 8092
+
+spring:
+  application:
+    name: seo-product-description-generator
+
+logging:
+  level:
+    root: INFO
+    com.ritangkar.seogenerator: INFO

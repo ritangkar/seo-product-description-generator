@@ -1,0 +1,10 @@
+{
+  "name": "Drift 271",
+  "category": "Footwear",
+  "brand": "ZenithWear",
+  "features": ["Breathable mesh upper", "Cushioned midsole"],
+  "specifications": {"Weight": "250g", "Material": "Mesh/EVA"},
+  "targetAudience": "long-distance runners",
+  "keywords": ["running shoes"],
+  "tone": "PROFESSIONAL"
+}
